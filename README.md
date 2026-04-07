@@ -105,9 +105,3 @@ Two experiments designed to run concurrently during Private Beta (Months 3–6):
 - **GitHub** — Version control and project portfolio presentation
 
 ---
-
-## About the Author
-
-Palak Gupta is a senior at UC San Diego graduating in June 2026. She is actively recruiting for APM and PM roles in fintech and AI infrastructure. This project was built to demonstrate strategic product thinking, quantitative rigor, and the end-to-end launch ownership that Stripe APMs are expected to develop.
-
-**Contact:** palakgupta2808@gmail.com
