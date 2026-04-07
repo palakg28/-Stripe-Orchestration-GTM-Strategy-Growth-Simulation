@@ -1,9 +1,4 @@
 # Stripe Orchestration — GTM Strategy & Growth Simulation
-
-**Author:** Palak Gupta, APM Candidate
-**Date:** April 2026
-**Role Target:** Associate Product Manager, Stripe
-
 ---
 
 ## What This Project Is
